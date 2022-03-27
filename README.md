@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoubleMDigital a game design studion in Canada
+- 👋 Hi, we're @DoubleMDigital a game design studion in Canada
 
 <!---
 DoubleMDigital/DoubleMDigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
